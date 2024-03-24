@@ -15,5 +15,4 @@ Welcome to the Cat or Dog AI project! This AI model is designed to classify imag
 
 You can utilize the Cat or Dog AI model in your own projects or try it out via the provided link. 
 
-Feel free to customize this README further to suit your project's specific details and requirements. If you have any further questions or need additional assistance, please let me know!
 
